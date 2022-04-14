@@ -45,7 +45,7 @@ $ pip install requests bs4 futures
 $ pip install cython
 $ rm -rf meta
 $ termux-setup-storage
-$ git clone https://github.com/ROY-ID/meta
+$ git clone https://github.com/tyan-ai/meta
 $ cd meta
 $ git pull
 $ python run.py
